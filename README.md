@@ -1,2 +1,4 @@
 # UX308Lab1
-hello javascript type application
+hello javascript type applicatin
+console.log("Renette12");
+
